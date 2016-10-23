@@ -44,13 +44,15 @@
 
 	<div class="row content">
 		<div class="col-lg-12 homepagetitle">
-			Welcome to QHTC!
+			Welcome to the QHTC!
 			<hr class="hr">
 		</div>
 	</div>
 
 	<div class="row footer">
-
+		<div class="col-lg-12 text-center">
+			<p class="page-bottom">Copyright© Queen's Hospitality & Tourism Club</p>
+		</div>
 	</div>
 
 	
